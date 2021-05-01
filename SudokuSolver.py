@@ -59,7 +59,7 @@ def sudoku_solver(puzzle):
     #Step 6: puzzle is not solvable after trying every combination of numbers in range
     return False
 
-if __name__ == '__main__':4
+if __name__ == '__main__':
     example_board = [
         [-1,  7, -1,   -1, -1, 8,   -1, -1, -1],
         [-1, -1, 2,   -1, -1, -1,   -1,  1, 7],
